@@ -1,0 +1,1 @@
+t is simply a calculator-like app developed using HTML, CSS,JS web features. In this application, there is regular update about currency of every country by which it displays present currency market value and conversion rate.
